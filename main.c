@@ -5,6 +5,7 @@ int main()
 {
     printf("Hello Rxiang !\n");
     printf("yeah !\n");
+    printf("this is xiang !\n");
 
     return 0;
 }
